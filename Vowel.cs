@@ -13,7 +13,8 @@ if (str[i]='a'|| str[i]='e'|| str[i]='i'|| str[i]='o'|| str[i]='u'||){
 new+=str[i];
 }
 }
-Console.WriteLine("The vowels are ::"+new);
+Console.WriteLine("The vowels are ::");
+Console.WriteLine(new);
 Console.ReadLine();
 }
 }
