@@ -1,6 +1,6 @@
 //# VowelFind
 //find vowel from String
-using system
+using system;
 namespace myprogram{
 class vwl{
 public static void Main(string[] args){
